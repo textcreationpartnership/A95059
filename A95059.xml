@@ -1,0 +1,362 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true Levellers standard advanced: or, The state of community opened, and presented to the sons of men. By William Everard, Iohn Palmer, Iohn South, Iohn Courton. William Taylor, Christopher Clifford, Iohn Barker. Ferrard Winstanley, Richard Goodgroome, Thomas Starre, William Hoggrill, Robert Sawyer, Thomas Eder, Henry Bickerstaffe, Iohn Taylor, &amp;c. Beginning to plant and manure the waste land upon George-Hill, in the parish of Walton, in the county of Surrey.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95059</idno>
+            <idno type="STC">Wing T2716</idno>
+            <idno type="STC">Thomason E552_5</idno>
+            <idno type="STC">ESTC R205713</idno>
+            <idno type="EEBO-CITATION">99865009</idno>
+            <idno type="PROQUEST">99865009</idno>
+            <idno type="VID">165056</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95059)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165056)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E552[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true Levellers standard advanced: or, The state of community opened, and presented to the sons of men. By William Everard, Iohn Palmer, Iohn South, Iohn Courton. William Taylor, Christopher Clifford, Iohn Barker. Ferrard Winstanley, Richard Goodgroome, Thomas Starre, William Hoggrill, Robert Sawyer, Thomas Eder, Henry Bickerstaffe, Iohn Taylor, &amp;c. Beginning to plant and manure the waste land upon George-Hill, in the parish of Walton, in the county of Surrey.</title>
+                  <author>Everard, William.</author>
+               </titleStmt>
+               <extent>22, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeer, MDCXLIX [1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed by William Everard and 14 others.</note>
+                  <note>Annotation on Thomason copy: "Aprill 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Levellers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165056:1" rendition="simple:additions"/>
+            <p>The True Levellers Standard <hi>ADVANCED:</hi> OR, The State of Community opened, and Preſented to the Sons of Men.</p>
+            <p>By
+<list>
+                  <item>
+                     <hi>William Everard,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Palmer,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn South,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Courton.</hi>
+                  </item>
+                  <item>
+                     <hi>William Taylor,</hi>
+                  </item>
+                  <item>
+                     <hi>Chriſtopher Clifford,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Barker.</hi>
+                  </item>
+                  <item>
+                     <hi>Ferrard Winſtanley,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Goodgroome,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Starre,</hi>
+                  </item>
+                  <item>
+                     <hi>William Hoggrill,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Sawyer,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Eder,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Bickerſtaffe,</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Taylor,</hi> &amp;c.</item>
+               </list>
+            </p>
+            <p>Beginning to Plant and Manure the Waſte land upon <hi>George-Hill,</hi> in the Pariſh of <hi>Walton,</hi> in the County of <hi>Surrey.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Yeer, MDCXLIX.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:165056:2"/>
+            <pb facs="tcp:165056:2"/>
+            <head>To all my fellow Creatures that shall view theſe enſu<g ref="char:EOLhyphen"/>ing Lines.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE God of this world blinding the eyes of the men of the world, have taken poſſeſſion of them and their Lives, Rules and Raigns, and in a high meaſure op<g ref="char:EOLhyphen"/>poſeth the everlaſting ſpirit, the King of Righteouſ<g ref="char:EOLhyphen"/>neſs; both in them, and on the whole Creation, bending all its wit and power to deſtroy this ſpirit, and the perſons in whom it lives, rules and governs; making Lawes under ſpecious pretences, yea and penalties too, that all Nations, Tongues, and Languages, ſhall fall down and worſhip this god, become ſubject, yea in ſlavery to it, and to the men in whom it dwels: But the god of this world is Pride and Covetouſneſs, the rootes of all Evil, from whence flowes all the wickedneſs that is acted under the Sun, as Malice, Tyranny, Lording over, and deſpiſing their fellow Creatures, kil<g ref="char:EOLhyphen"/>ling and deſtroying thoſe that will not, or cannot become ſubject to their Tyranny, to uphold their Lordly Power, Pride, and Covetouſneſs.</p>
+            <p>I have had ſome Converſation with the Author of this enſuing Declaration, and the Perſons Subſcribing, and by experience find them ſweetly acted and guided by the everlaſting ſpirit, the Prince of Peace, to walk in the paths of Righteouſneſs, not daring to venture upon any acts of injuſtice; but endeavouring to do un<g ref="char:EOLhyphen"/>to all, as they would have done to them, having Peace and Joy in themſelves, knit together and united in one Spirit of Glory and Truth, Love to their fellow Creatures, Contentation with Food
+<pb facs="tcp:165056:3"/>and Rayment, ſhewing much Humility and Meekneſs of ſpirit; ſuch as theſe ſhall be partakers of the Promiſe.</p>
+            <p>
+               <hi>Bleſſed are the Meek, for they ſhall inherit the Earth.</hi>
+            </p>
+            <p>Secondly, For this action of theirs, in labouring to Manure the waſt places of the Earth, it is an action full of Iuſtice and Righte<g ref="char:EOLhyphen"/>ouſneſſe, full of Love and Charity to their fellow Creatures; no<g ref="char:EOLhyphen"/>thing of the god of this world, Pride and Covetouſneſſe ſeen in it, no ſelf-ſeeking, or glorying in the Fleſh.</p>
+            <p>Vouchſafe to reade, or view over theſe enſuing Lines yee Powers of the Earth; Oh that Reaſon might ſit upon the throne of your hearts as Iudge; I am confident there is nothing written in anger or hatred to your perſons, but in love to them as fellow Crea<g ref="char:EOLhyphen"/>tures; but againſt that which have bound up your own Spirits in ſlavery; if you could ſpeak impartially, your own Conſciences can bear me witneſſe, and only bears ſway in your forcing you to ex<g ref="char:EOLhyphen"/>erciſe Tyranny, ſcourging and trampling under foot your fellow Creatures, eſpecially thoſe whoſe eyes are opened and can cleerly diſcover the great Devil, Tyranny, Pride, and Covetouſneſſe working to and fro upon your Spirits, and raigning in you, which will prove your own deſtruction: The Angels that kept not their firſt Eſtate, are reſerved under Chains of darkneſſe unto the Iudg<g ref="char:EOLhyphen"/>ment of the great day.</p>
+            <p>The whole Creation are the Angels of the everlaſting Spirit of Righteouſneſſe, they are all miniſtring ſpirits, ſpeaking every Creature in its kind the Will of the Father. <hi>The Chariots of God are 20000 thouſands of Angels,</hi> Pſal. &amp;c.</p>
+            <p>But yee the great ones of the Earth, the Powers of this world, yee are the Angels that kept not your firſt eſtate, and now remain under Chains of darkneſſe: Your firſt Eſtate was Innocency and Equallity with your fellow Creatures, but your Lordly power o<g ref="char:EOLhyphen"/>ver them, both Perſons and Conſciences, your proud fleſhly ima<g ref="char:EOLhyphen"/>ginations, lofty thoughts of your ſelves, are the fruits of darkneſſe which you are kept under: The whole Creation groaneth and is in bondage, even until now, waiting for deliverance, and muſt wait till he that with-holdeth be taken away, that man of ſin, that Antichriſt which ſits in the throne, in the hearts of the men of this world, the Powers of the Earth, above all that is call<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d God.</p>
+            <p>
+               <pb facs="tcp:165056:3"/>I know you have high thoughts of your ſelves, think you know much, and ſee much, but the Light that is in you is Darkneſſe; and how great is that darkneſſe? They that live in the light of the Spirit can diſcover that to be the blackneſſe of darkneſſe which you count light. And truly, a great Light, a bright Morning Star which will flouriſh and ſpread it ſelf, ſhining in Darkneſſe, and darkneſſe ſhall not be able to comprehend it, though you Spurn never ſo much againſt it.</p>
+            <p>I expect nothing but oppoſition, mockings, deridings from Lord <hi>Eſau</hi> the man of Fleſh: I know it will be counted in the eye of Fleſh, a fooliſh undertaking, an object of ſcorn and laughter; but in this is their Comfort and incouragement, That the power of Life and Light, the Spirit by whom they are commanded, will carry them on, ſtrengthen and ſupport them, reſcuing them from the Jaw of the Lyon and Paw of the Bear; For great is the work which will ſhortly be done upon the Earth. Deſpiſe not Viſions, Voyces and Revelations; examine the Scriptures, Propheſies are now fulfilling; be not like <hi>Joſephs</hi> Brethren, ſpeak not evil of things you know not: For whatſoever is of God will ſtand, do what you can, though you may cruſh it for a time, the time is neer ex<g ref="char:EOLhyphen"/>pired it will spring up again and flouriſh like a green Bay tree: What is not of the Father will fall to the ground, though you bend all your wit, power and policy to keep it up; but of that will be no Reſurrection. That the eternal Spirit may enlighten you, that Reaſon may dwel in you, and act accordingly, is the deſire of your Loving Friend, and Fellow Creature,</p>
+            <closer>
+               <signed>JOHN TAYLOR.</signed>
+               <date>
+                  <hi>April 20, 1649.</hi>
+               </date>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="6" facs="tcp:165056:4"/>
+            <head>A Declaration to the Powers of <hi>England,</hi> and to all the Powers of the World, Shewing the Cauſe why the Com<g ref="char:EOLhyphen"/>mon People of <hi>England</hi> have begun, and gives Conſent to Digge up, Manure, and Sowe Corn upon <hi>George</hi>-Hill in <hi>Surrey;</hi> by thoſe that have Subſcribed, and thouſands more that gives Conſent.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the beginning of Time, the great Creator Reaſon, made the Earth to be a Common Treaſury, to preſerve Beaſts, Birds, Fiſhes, and Man, the lord that was to govern this Crea<g ref="char:EOLhyphen"/>tion; for Man had Domination given to him, over the Beaſts, Birds, and Fiſhes; but not one word was ſpoken in the beginning, That one branch of mankind ſhould rule over another.</p>
+            <p>And the Reaſon is this, Every ſingle man, Male and Female, is a perfect Creature of himſelf; and the ſame Spirit that made the Globe, dwels in man to govern the Globe; ſo that the fleſh of man being ſubject to Reaſon, his Maker, hath him to be his Tea<g ref="char:EOLhyphen"/>cher and Ruler within himſelf, therefore needs not run abroad after any Teacher and Ruler without him, for he needs not that any man ſhould teach him, for the ſame Anoynting that ruled in the Son of man, teacheth him all things.</p>
+            <p>But ſince humane fleſh (that king of Beaſts) began to delight himſelf in the objects of the Creation, more then in the Spirit Reaſon and Righteouſneſs, who manifeſts himſelf to be the in<g ref="char:EOLhyphen"/>dweller in the Five Sences, of Hearing, Seeing, Taſting, Smel<g ref="char:EOLhyphen"/>ling, Feeling; then he fell into blindneſs of mind and weakneſs of heart, and runs abroad for a Teacher and Ruler: And ſo ſelfiſh imaginations taking poſſeſſion of the Five Sences, and ruling as King in the room of Reaſon therein, and working with Cove<g ref="char:EOLhyphen"/>touſneſſe,
+<pb n="7" facs="tcp:165056:4"/>did ſet up one man to teach and rule over another; and thereby the Spirit was killed, and man was brought into bon<g ref="char:EOLhyphen"/>dage, and became a greater Slave to ſuch of his own kind, then the Beaſts of the field were to him.</p>
+            <p>And hereupon, The Earth (which was made to be a Com<g ref="char:EOLhyphen"/>mon Treaſury of relief for all, both Beaſts and Men) was hedged in to In-cloſures by the teachers and rulers, and the others were made Servants and Slaves: And that Earth that is within this Creation made a Common Store-houſe for all, is bought and ſold, and kept in the hands of a few, whereby the great Crea<g ref="char:EOLhyphen"/>tor is mightily diſhonored, as if he were a reſpector of perſons, delighting in the comfortable Livelihood of ſome, and rejoycing in the miſerable povertie and ſtraits of others. From the be<g ref="char:EOLhyphen"/>ginning it was not ſo.</p>
+            <p>But this coming in of Bondage, is called <hi>A-dam,</hi> becauſe this ruling and teaching power without, doth <hi>dam</hi> up the Spirit of Peace and Liberty; Firſt within the heart, by filling it with ſlaviſh fears of others. Secondly without, by giving the bodies of one to be impriſoned, puniſhed and oppreſſed by the outward power of another. And this evil was brought upon us through his own Covetouſneſſe, whereby he is blinded and made weak, and ſees not the Law of Righteouſneſſe in his heart, which is the pure light of Reaſon, but looks abroad for it, and thereby the Creation is caſt under bondage and curſe, and the Creator is ſleighted; Firſt by the Teachers and Rulers that ſets themſelves down in the Spirits room, to teach and rule, where he himſelf is only King. Secondly by the other, that refuſes the Spirit, to be taught and governed by fellow Creatures, and this was cal<g ref="char:EOLhyphen"/>led Iſraels Sin, in caſting off the Lord, and chuſing <hi>Saul,</hi> one like themſelves to be their King, when as they had the ſame Spirit of Reaſon and government in themſelves, as he had, if they were but ſubject. And Iſraels rejecting of outward teachers and rulers to embrace the Lord, and to be all taught and ruled by that righ<g ref="char:EOLhyphen"/>teous King, that <hi>Jeremiah</hi> Propheſied ſhall rule in the new Hea<g ref="char:EOLhyphen"/>vens and new Earth in the latter dayes, will be their Reſtaurati<g ref="char:EOLhyphen"/>on from bondage, <hi>Ier.</hi> 23.5, 6.</p>
+            <p>But for the preſent ſtate of the old World that is running up like parchment in the fire, and wearing away, we ſee proud Ima<g ref="char:EOLhyphen"/>ginary
+<pb n="8" facs="tcp:165056:5"/>fleſh, which is the wiſe Serpent, riſes up in fleſh and gets dominion in ſome to rule over others, and ſo forces one part of the Creation man, to be a ſlave to another; and thereby the Spi<g ref="char:EOLhyphen"/>rit is killed in both. The one looks upon himſelf as a teacher and ruler, and ſo is lifted up in pride over his fellow Creature: The other looks upon himſelf as imperfect, and ſo is dejected in his Spirit, and looks upon his fellow Creature of his own Image, as a Lord above him.</p>
+            <p>And thus <hi>Eſau,</hi> the man of fleſh, which is Covetouſneſs and Pride, hath killed <hi>Jacob,</hi> the Spirit of meekneſſe, and righteous government in the light of Reaſon, and rules over him: And ſo the Earth that was made a common Treaſury for all to live com<g ref="char:EOLhyphen"/>fortably upon, is become through mans unrighteous actions one over another, to be a place, wherein one torments a<g ref="char:EOLhyphen"/>nother.</p>
+            <p>Now the great Creator, who is the Spirit Reaſon, ſuffered himſelf thus to be rejected, and troden under foot by the cove<g ref="char:EOLhyphen"/>tous proud fleſh, for a certain time limited; therefore ſaith he, <hi>The Seed out of whom the Creation did proceed, which is my Self, ſhall bruiſe this Serpents head, and reſtore my Creation again from this curſe and bondage; and when I the King of Righteouſ<g ref="char:EOLhyphen"/>neſſe raigns in every man, I will be the bleſſing of the Earth, and the joy of all Nations.</hi>
+            </p>
+            <p>And ſince the coming in of the ſtoppage, or the <hi>A-dam</hi> the Earth hath been incloſed and given to the Elder brother <hi>Eſau,</hi> or man of fleſh, and hath been bought and ſold from one to ano<g ref="char:EOLhyphen"/>ther; and <hi>Iacob,</hi> or the yonger brother, that is to ſucceed or come forth next, who is the univerſal ſpreading power of righ<g ref="char:EOLhyphen"/>teouſneſſe that gives liberty to the whole Creation, is made a ſervant.</p>
+            <p>And this Elder Son, or man of bondage, hath held the Earth in bondage to himſelf, not by a meek Law of Righteouſneſſe, But by ſubtle ſelfiſh Councels, and by open and violent force; for wherefore is it that there is ſuch Wars and rumours of Wars in the Nations of the Earth? and wherefore are men ſo mad to deſtroy one another? But only to uphold Civil propriety of Ho<g ref="char:EOLhyphen"/>nor, Dominion and Riches one over another, which is the curſe the Creation groans under, waiting for deliverance.</p>
+            <p>
+               <pb n="9" facs="tcp:165056:5"/>But when once the Earth becomes a Common Treaſury a<g ref="char:EOLhyphen"/>gain, as it muſt, for all the Propheſies of Scriptures and Reaſon are Circled here in this Community, and mankind muſt have the Law of Righteouſneſſe once more writ in his heart, and all muſt be made of one heart, and one mind.</p>
+            <p>Then this Enmity in all Lands will ceaſe, for none ſhall dare to ſeek a Dominion over others, neither ſhall any dare to kill a<g ref="char:EOLhyphen"/>nother, nor deſire more of the Earth then another; for he that will rule over, impriſon, oppreſſe, and kill his fellow Creatures, under what pretence ſoever, is a deſtroyer of the Creation, and an actor of the Curſe, and walks contrary to the rule of righ<g ref="char:EOLhyphen"/>teouſneſſe: <hi>(Do, as you would have others do to you; and love your Enemies, not in Words, but in actions).</hi>
+            </p>
+            <p>Therefore you powers of the Earth, or Lord <hi>Eſau,</hi> the El<g ref="char:EOLhyphen"/>der brother, becauſe you have appeared to rule the Creation, firſt take notice, That the power that ſets you to work, is ſelviſh Covetouſnes, and an aſpiring Pride, to live in glory and eaſe over <hi>Iacob,</hi> the meek Spirit; that is, the Seed that lies hid, in &amp; among the poor Common People, or yonger Brother, out of whom the bleſſing of Deliverance is to riſe and ſpring up to all Nations.</p>
+            <p>And Reaſon, the living king of righteouſneſſe, doth only look on, and lets thee alone, That whereas thou counts thy ſelf an Angel of Light, thou ſhalt appear in the light of the Sun, to be a Devil, <hi>A-dam,</hi> and the Curſe that the Creation groans under; and the time is now come for thy downfal, and <hi>Iacob</hi> muſt riſe, who is the univerſal Spirit of love and righteouſneſſe, that fils, and will fill all the Earth.</p>
+            <p>Thou teaching and ruling power of fleſh, thou haſt had three periods of time, to vaunt thy ſelf over thy Brother; the firſt was from the time of thy coming in, called <hi>A-dam,</hi> or a ſtop-age, till <hi>Moſes</hi> came; and there thou that waſt a ſelf-lover in <hi>Cain,</hi> killed thy brother <hi>Abel,</hi> a plain-hearted man that loved righteouſneſſe: And thou by thy wiſdom and beaſtly govern<g ref="char:EOLhyphen"/>ment, made the whole Earth to ſtinck, till <hi>Noah</hi> came, which was a time of the world, like the coming in of the watery Seed into the womb, towards the bringing forth of the man child.</p>
+            <p>And from <hi>Noah</hi> till <hi>Moſes</hi> came, thou ſtill haſt ruled in vaunting, pride, and cruel oppreſſion; <hi>Iſhmael</hi> againſt <hi>Iſaac,
+<pb n="10" facs="tcp:165056:6"/>Eſau</hi> againſt <hi>Iacob;</hi> for thou haſt ſtill been the man of fleſh that hath ever perſecuted the man of righteouſneſſe, the Spirit Reaſon.</p>
+            <p>And Secondly, From <hi>Moſes</hi> till the <hi>Son of Man</hi> came, which was a time of the world, that the man child could not ſpeak like a man, but liſping, making ſigns to ſhew his meaning; as we ſee many Creatures that cannot ſpeak do. For <hi>Moſes</hi> Law was a Language lapped up in Types, Sacrifices, Forms, and Cuſtoms, which was a weak time. And in this time likewiſe, O thou teaching and ruling power, thou waſt an oppreſſor; for look in<g ref="char:EOLhyphen"/>to Scriptures and ſee if <hi>Aaron</hi> and the Prieſts were not the firſt that deceived the people; and the Rulers, as Kings and Gover<g ref="char:EOLhyphen"/>nors, were continually the Ocean-head, out of whoſe power, Burdens, Oppreſſions, and Poverty did flow out upon the Earth: and theſe two Powers ſtill hath been the Curſe, that hath led the Earth, mankind, into confuſion and death by their imaginary and ſelviſh teaching and ruling, and it could be no otherwiſe; for while man looks upon himſelf, as an imperfect Creation, and ſeeks and runs abroad for a teacher and a ruler, he is all this time a ſtranger to the Spirit that is within himſelf.</p>
+            <p>But though the Earth hath been generally thus in darkneſſe, ſince the <hi>A-dam</hi> riſe up, and hath owned a Light, and a Law without them to walk by, yet ſome have been found as watch<g ref="char:EOLhyphen"/>men, in this night time of the world, that have been taught by the Spirit within them, and not by any fleſh without them, as <hi>Abraham, Iſaac, Iacob,</hi> and the Prophets: And theſe, and ſuch as theſe, have ſtill been the Butt, at whom, the powers of the Earth in all ages of the world, by their ſelviſh Laws, have ſhot their fury.</p>
+            <p>And then Thirdly from the time of the <hi>Son of man,</hi> which was a time that the man-child began to ſpeak like a child grow<g ref="char:EOLhyphen"/>ing upward to manhood, till now, that the Spirit is riſing up in ſtrength. O thou teaching and ruling power of the earthy man, thou haſt been an oppreſſor, by impriſonment, impoveriſhing, and martyrdom; and all thy power and wit, hath been to make Laws, and execute them againſt ſuch as ſtand for univerſal Li<g ref="char:EOLhyphen"/>berty, which is the riſing up of <hi>Iacob;</hi> as by thoſe ancient enſla<g ref="char:EOLhyphen"/>ving Laws not yet blotted out, but held up as weapons againſt the man-child.</p>
+            <p>
+               <pb n="11" facs="tcp:165056:6"/>O thou Powers of <hi>England,</hi> though thou haſt promiſed to make this People a Free People, yet thou haſt ſo handled the matter, through thy ſelf-ſeeking humour, That thou haſt wrap<g ref="char:EOLhyphen"/>ped us up more in bondage, and oppreſſion lies heavier upon us; not only bringing thy fellow Creatures, the Commoners, to a morſel of Bread, but by confounding all ſorts of people by thy Government, of doing and undoing.</p>
+            <p>Firſt, Thou haſt made the people to take a Covenant and Oaths to endeavour a Reformation, and to bring in Liberty every man in his place; and yet while a man is in purſuing of that Covenant, he is impriſoned and oppreſſed by thy Officers, Courts, and Juſtices, ſo called.</p>
+            <p>Thou haſt made Ordinances to caſt down Oppreſſing, Popiſh, Epiſcopal, Self-willed and Prerogative Laws; yet we ſee, That Self-wil and Prerogative power, is the great ſtanding Law, that rules all in action, and others in words.</p>
+            <p>Thou haſt made many promiſes and proteſtations to make the Land a Free Nation: And yet at this very day, the ſame people, to whom thou haſt made ſuch Proteſtations of Liberty, are op<g ref="char:EOLhyphen"/>preſſed by thy Courts, Sizes, Seſſions, by thy Juſtices and Clarks of the Peace, ſo called, Bayliffs, Committees, are impriſoned, and forced to ſpend that bread, that ſhould ſave their lives from Famine.</p>
+            <p>And all this, Becauſe they ſtand to maintain an univerſal Li<g ref="char:EOLhyphen"/>berty and Freedom, which not only is our Birthright, which our Maker gave us, but which thou haſt promiſed to reſtore un<g ref="char:EOLhyphen"/>to us, from under the former oppreſſing Powers that are gone be<g ref="char:EOLhyphen"/>fore, and which likewiſe we have bought with our Money, in Taxes, Free-quarter, and Bloud-ſhed; all which Sums thou haſt received at our hands, and yet thou haſt not given us our bargain.</p>
+            <p>O thou <hi>A-dam,</hi> thou <hi>Eſau,</hi> thou <hi>Cain,</hi> thou Hypocritical man of fleſh, when wilt thou ceaſe to kill thy yonger Brother? Surely thou muſt not do this great Work of advancing the Crea<g ref="char:EOLhyphen"/>tion out of Bondage; for thou art loſt extremely, and drowned in the Sea of Covetouſneſſe, Pride, and hardneſs of heart. <hi>The bleſſing ſhall riſe out of the duſt which thou treadeſt under foot, Even the poor deſpiſed People, and they ſhall hold up
+<pb n="12" facs="tcp:165056:7"/>Salvation to this Land, and to all Lands, and thou ſhalt be a<g ref="char:EOLhyphen"/>ſhamed.</hi>
+            </p>
+            <p>Our Bodies as yet are in thy hand, our Spirit waits in quiet and peace, upon our Father for Deliverance; and if he give our Bloud into thy hand, for thee to ſpill, know this, That he is our Almighty Captain: And if ſome of you will not dare to ſhed your bloud, to maintain Tyranny and Oppreſſion upon the Creation, know this, That our Bloud and Life ſhall not be un<g ref="char:EOLhyphen"/>willing to be delivered up in meekneſs to maintain univerſal Li<g ref="char:EOLhyphen"/>berty, that ſo the Curſe on our part may be taken off the Crea<g ref="char:EOLhyphen"/>tion.</p>
+            <p>And we ſhall not do this by force of Arms, we abhorre it, For that is the work of the <hi>Midianites</hi> to kill one another; But by obeying the Lord of Hoſts, who hath Revealed himſelf in us, and to us, by labouring the Earth in righteouſneſs together, to eate our bread with the ſweat of our brows, neither giving hire, nor taking hire, but working together, and eating together, as one man, or as one houſe of Iſrael reſtored from Bondage; and ſo by the power of Reaſon, the Law of righteouſneſs in us, we endeavour to lift up the Creation from that bondage of Civil Propriety, which it groans under.</p>
+            <p>We are made to hold forth this Declaration to you that are the Great Councel, and to you the Great Army of the Land of <hi>England,</hi> that you may know what we would have, and what you are bound to give us by your Covenants and Promiſes; and that you may joyn with us in this Work, and ſo find Peace. Or elſe, if you do oppoſe us, we have peace in our Work, and in declaring this Report: And you ſhall be left without excuſe.</p>
+            <p>The Work we are going about is this, To dig up <hi>Georges-Hill</hi> and the waſte Ground thereabouts, and to Sow Corn, and to eat our bread together by the ſweat of our brows.</p>
+            <p>And the Firſt Reaſon is this, That we may work in righteouſ<g ref="char:EOLhyphen"/>neſs, and lay the Foundation of making the Earth a Common Treaſury for All, both Rich and Poor, That every one that is born in the Land, may be fed by the Earth his Mother that brought him forth, according to the Reaſon that rules in the Creation. Not Incloſing any part into any particular hand, but all as one man, working together, and feeding together as Sons
+<pb n="13" facs="tcp:165056:7"/>of one Father, members of one Family; not one Lording over another, but all looking upon each other, as equals in the Crea<g ref="char:EOLhyphen"/>tion; ſo that our Maker may be glorified in the work of his own hands, and that every one may ſee, he is no reſpecter of Perſons, but equally loves his whole Creation, and hates nothing but the Serpent, which is Covetouſneſs, branching forth into ſelviſh Imagination, Pride, Envie, Hypocriſie, Vncleanneſs; all ſee<g ref="char:EOLhyphen"/>king the eaſe and honor of fleſh, and fighting againſt the Spirit Reaſon that made the Creation; for that is the Corruption, the Curſe, the Devil, the Father of Lies; Death and Bondage that Serpent and Dragon that the Creation is to be delivered from.</p>
+            <p>And we are moved hereunto for that Reaſon, and others which hath been ſhewed us, both by Viſion, Voyce, and Reve<g ref="char:EOLhyphen"/>lation.</p>
+            <p>For it is ſhewed us, That ſo long as we, or any other, doth own the Earth to be the peculier Intereſt of Lords and Land<g ref="char:EOLhyphen"/>lords, and not common to others as well as them, we own the Curſe, and holds the Creation under bondage; and ſo long as we or any other doth own Landlords and Tennants, for one to call the Land his, or another to hire it of him, or for one to give hire, and for another to work for hire; this is to diſhonour the work of Creation; as if the righteous Creator ſhould have re<g ref="char:EOLhyphen"/>ſpect to perſons, and therefore made the Earth for ſome, and not for all: And ſo long as we, or any other maintain this Civil Pro<g ref="char:EOLhyphen"/>priety, we conſent ſtill to hold the Creation down under that bondage it groans under, and ſo we ſhould hinder the work of Reſtoration, and ſin againſt Light, that is given into us, and ſo through the fear of the fleſh man, loſe our peace.</p>
+            <p>And that this Civil Propriety is the Curſe, is manifeſt thus, Thoſe that Buy and Sell Land, and are landlords, have got it either by Oppreſſion, or Murther, or Theft; and all landlords lives in the breach of the Seventh and Eighth Commandements, <hi>Thou ſhalt not ſteal, nor kill.</hi>
+            </p>
+            <p>Firſt by their Oppreſſion. They have by their ſubtle imagi<g ref="char:EOLhyphen"/>nary and covetous wit, got the plain-hearted poor, or yonger Brethren to work for them, for ſmall wages, and by their work have got a great increaſe; for the poor by their labour lifts up Tyrants to rule over them; or elſe by their covetous wit, they
+<pb n="14" facs="tcp:165056:8"/>have out-reached the plain-hearted in Buying and Selling, and thereby inriched themſelves, but impoveriſhed others: or elſe by their ſubtile wit, having been a lifter up into places of Truſt, have inforced people to pay Money for a Publick uſe, but have divided much of it into their private purſes; and ſo have got it by Oppreſſion.</p>
+            <p>Then Secondly for Murther; They have by ſubtile wit and power, pretended to preſerve a people in ſafety by the power of the Sword; and what by large Pay, much Free-quarter, and o<g ref="char:EOLhyphen"/>ther Booties, which they call their own, they get much Mo<g ref="char:EOLhyphen"/>nies, and with this they buy Land, and become landlords; and if once Landlords, then they riſe to be Juſtices, Rulers, and State Governours, as experience ſhewes: But all this is but a bloudy and ſubtile Thee very, countenanced by a Law that Covetouſneſs made; and is a breach of the Seventh Commandement, <hi>Thou ſhalt not kill.</hi>
+            </p>
+            <p>And likewiſe Thirdly a breach of the Eighth Commande<g ref="char:EOLhyphen"/>ment, <hi>Thou ſhalt not ſteal;</hi> but theſe landlords have thus ſtoln the Earth from their fellow Creatures, that have an equal ſhare with them, by the Law of Reaſon and Creation, as well as they.</p>
+            <p>And ſuch as theſe riſe up to be rich in the objects of the Earth; then by their plauſible words of flattery to the plain-hearted people, whom they deceive, and that lies under confuſion and blindneſs: They are lifted up to be Teachers, Rulers, and Law makers over them that lifted them up; as if the Earth were made peculiarly for them, and not for others weal: If you caſt your eye a little backward, you ſhall ſee, That this outward Teaching and Ruling power, is the Babyloniſh yoke laid upon Iſrael of old, under <hi>Nebuchadnezzar;</hi> and ſo Succeſſively from that time, the Conquering Enemy, have ſtill laid theſe yokes upon Iſrael to keep <hi>Jacob</hi> down: And the laſt enſlaving Conqueſt which the Enemy got over Iſrael, was the <hi>Norman</hi> over <hi>England;</hi> and from that time, Kings, Lords, Judges, Juſtices, Bayliffs, and the violent bitter people that are Free-holders, are and have been Succeſſively. The <hi>Norman</hi> Baſtard <hi>William</hi> himſelf, his Colonels, Captains, inferiour Officers, and Common Souldiers, who ſtill are from that time to this day in purſuite of that victo<g ref="char:EOLhyphen"/>ry, Impriſoning, Robbing, and killing the poor enſlaved <hi>Engliſh</hi> Iſraelites.</p>
+            <p>
+               <pb n="15" facs="tcp:165056:8"/>And this appears cleer, For when any Truſtee or State Offi<g ref="char:EOLhyphen"/>cer is to be Choſen, The Free-holders or Landlords muſt be the Chuſers, who are the <hi>Norman</hi> Common Souldiers, ſpred a<g ref="char:EOLhyphen"/>broad in the Land; And who muſt be Choſen? but ſome very rich man, who is the Succeſſor of the <hi>Norman</hi> Colonels or high Officers. And to what end have they been thus Choſen? but to Eſtabliſh that <hi>Norman</hi> power the more forcibly over the enſla<g ref="char:EOLhyphen"/>ved <hi>Engliſh,</hi> and to beat them down again, when as they gather heart to ſeek for Liberty.</p>
+            <p>For what are all thoſe Binding and Reſtraining Laws that have been made from one Age to another ſince that Conqueſt, and are ſtill upheld by Furie over the People? I ſay, What are they? but the Cords, Bands, Manacles, and Yokes that the enſlaved <hi>Engliſh,</hi> like <hi>Newgate</hi> Priſoners, wears upon their hands and legs as they walk the ſtreets; by which thoſe <hi>Norman</hi> Op<g ref="char:EOLhyphen"/>preſſors, and theſe their Succeſſors from Age to Age have enſla<g ref="char:EOLhyphen"/>ved the poor People by, killed their yonger Brother, and would not ſuffer <hi>Iacob</hi> to ariſe.</p>
+            <p>O what mighty Deluſion, do you, who are the powers of <hi>England</hi> live in! That while you pretend to throw down that <hi>Norman</hi> yoke, and <hi>Babyloniſh</hi> power, and have promiſed to make the groaning people of <hi>England</hi> a Free People; yet you ſtill lift up that <hi>Norman</hi> yoke, and ſlaviſh Tyranny, and holds the People as much in bondage, as the Baſtard Conquerour him<g ref="char:EOLhyphen"/>ſelf, and his Councel of War.</p>
+            <p>Take notice, That <hi>England</hi> is not a Free People, till the Poor that have no Land, have a free allowance to dig and labour the Commons, and ſo live as Comfortably as the Landlords that live in their Incloſures. For the People have not laid out their Monies, and ſhed their Bloud, that their Landlords, the <hi>Norman</hi> power, ſhould ſtill have its liberty and freedom to rule in Tyran<g ref="char:EOLhyphen"/>ny in his Lords, landlords, Judges, Juſtices, Bayliffs, and State Servants; but that the Oppreſſed might be ſet Free, Priſon doors opened, and the Poor peoples hearts comforted by an u<g ref="char:EOLhyphen"/>niverſal Conſent of making the Earth a Common Treaſury, that they may live together as one Houſe of Iſrael, united in brother<g ref="char:EOLhyphen"/>ly love into one Spirit; and having a comfortable livelihood in the Community of one Earth their Mother.</p>
+            <p>
+               <pb n="16" facs="tcp:165056:9"/>If you look through the Earth, you ſhall ſee, That the land<g ref="char:EOLhyphen"/>lords, Teachers and Rulers, are Oppreſſors, Murtherers, and Theeves in this manner; But it was not thus from the Begin<g ref="char:EOLhyphen"/>ning. And this is one Reaſon of our digging and labouring the Earth one with another, That we might work in righteouſneſs, and lift up the Creation from bondage: For ſo long as we own Landlords in this Corrupt Settlement, we cannot work in righ<g ref="char:EOLhyphen"/>teouſneſs; for we ſhould ſtill lift up the Curſe, and tread down the Creation, diſhonour the Spirit of univerſal Liberty, and hin<g ref="char:EOLhyphen"/>der the work of Reſtauration.</p>
+            <p>Secondly, In that we begin to Digge upon <hi>George-Hill,</hi> to eate our Bread together by righteous labour, and ſweat of our browes; It was ſhewed us by Viſion in Dreams, and out of Dreams, That that ſhould be the Place we ſhould begin upon; And though that Earth in view of Fleſh, be very barren, yet we ſhould truſt the Spirit for a bleſſing. And that not only this Common, or Heath ſhould be taken in and Manured by the People, but all the Commons and waſte Ground in <hi>England,</hi> and in the whole World, ſhall be taken in by the People in righteouſneſs, not owning any Propriety; but taking the Earth to be a Common Treaſury, as it was firſt made for all.</p>
+            <p>Thirdly, It is ſhewed us, That all the Prophecies, Viſions, and Revelations of Scriptures, of Prophets, and Apoſtles, con<g ref="char:EOLhyphen"/>cerning the calling of the Jews, the Reſtauration of Iſrael; and making of that People, the Inheritors of the whole Earth; doth all ſeat themſelves in this Work of making the Earth a Common Treaſury; as you may read, <hi>Ezek.</hi> 24.26, 27, <hi>&amp;c. Jer.</hi> 33.7. to 12. <hi>Eſay.</hi> 49.17, 18, <hi>&amp;c. Zach.</hi> 8. from 4, to 12. <hi>Dan.</hi> 2.44, 45. <hi>Dan.</hi> 7.27. <hi>Hoſ.</hi> 14.5, 6, 7. <hi>Joel</hi> 2.26, 27. <hi>Amos</hi> 9. from 8 to the end, <hi>Obad.</hi> 17.18.21. <hi>Mic.</hi> 5. from 7 to the end, <hi>Hab.</hi> 2.6, 7, 8.13, 14. <hi>Gen.</hi> 18.18. <hi>Rom.</hi> 11.15. <hi>Zeph.</hi> 3. <hi>&amp;c. Zach.</hi> 14.9.</p>
+            <p>And when the Son of man, was gone from the Apoſtles, his Spirit deſcended upon the Apoſtles and Brethren, as they were waiting at <hi>Ieruſalem;</hi> and the Rich men ſold their Poſſeſſions, and gave part to the Poor; and no man ſaid, That ought that he poſſeſſed was his own, for they had all things Common, <hi>Act.</hi> 4.32.</p>
+            <p>
+               <pb n="17" facs="tcp:165056:9"/>Now this Community was ſuppreſt by covetous proud fleſh, which was the powers that ruled the world; and the righteous Father ſuffered himſelf thus to be ſuppreſſed for a time, times and dividing of time, or for 42 months, or for three dayes and half, which are all but one and the ſame term of time: And the world is now come to the half day; and the Spirit of Chriſt, which is the Spirit of univerſal Community and Freedom is ri<g ref="char:EOLhyphen"/>ſen, and is riſing, and will riſe higher and higher, till thoſe pure waters of <hi>Shiloe,</hi> the Well Springs of Life and Liberty to the whole Creation, do over-run <hi>A-dam,</hi> and crown thoſe banks of Bondage, Curſe, and Slavery.</p>
+            <p>Fourthly, This work to make the Earth a Common Trea<g ref="char:EOLhyphen"/>ſury, was ſhewed us by Voice in Trance, and out of Trance, which words were theſe,</p>
+            <p>
+               <hi>Work together, Eate Bread together, Declare this all a<g ref="char:EOLhyphen"/>broad.</hi>
+            </p>
+            <p>Which Voice, was heard Three times: And in Obedi<g ref="char:EOLhyphen"/>ence to the Spirit, Wee have Declared this by Word of mouth, as occaſion was offered. Secondly, We have decla<g ref="char:EOLhyphen"/>red it by writing, which others may reade. Thirdly, We have now begun to declare it by Action, in Diging up the Common Land, and caſting in Seed, that we may eat our Bread together in righteouſneſs. And every one that comes to work, ſhall eate the Fruit of their own labours, one having as much Freedom in the Fruit of the Earth as another. Another Voice that was heard was this,</p>
+            <p>
+               <hi>Iſrael ſhall neither take Hire, nor give Hire.</hi>
+            </p>
+            <p>And if ſo, then certainly none ſhall ſay, This is my Land, work for me, and I'le give you Wages: For, The Earth is the Lords, that is, Mans, who is Lord of the Creation, in every branch of mankind; for as divers members of our human bo<g ref="char:EOLhyphen"/>dies, make but one body perfect; ſo every particular man is but a member or branch of mankind; and mankind living in the light and obedience to Reaſon, the King of righteouſneſs, is thereby made a fit and compleat Lord of the Creation. And the whole Earth is this Lords Man, ſubject to the Spirit. And not the Inheritance of covetous proud Feſh, that is ſelviſh, and en<g ref="char:EOLhyphen"/>mity to the Spirit.</p>
+            <p>
+               <pb n="18" facs="tcp:165056:10"/>And if the Earth be not peculiar to any one branch, or bran<g ref="char:EOLhyphen"/>ches of mankind, but the Inheritance of all; Then is it Free and Common for all, to work together, and eate together.</p>
+            <p>And truly, you Counſellors and Powers of the Earth, know this, That whereſoever there is a People, thus united by Com<g ref="char:EOLhyphen"/>mon Community of livelihood into Oneneſs, it will become the ſtrongeſt Land in the World, for then they will be as one man to defend their Inheritance; and Salvation (which is Li<g ref="char:EOLhyphen"/>berty and Peace) is the Walls and Bulwarks of that Land or City.</p>
+            <p>Wheras on the otherſide, pleading for Propriety and ſingle In<g ref="char:EOLhyphen"/>tereſt, divides the People of a land, and the whole world into Parties, and is the cauſe of all Wars and Bloud-ſhed, and Con<g ref="char:EOLhyphen"/>tention every where.</p>
+            <p>Another Voice that was heard in a Trance, was this,</p>
+            <p>
+               <hi>Whoſoever labours the Earth for any Perſon or Perſons, that are lifted up to rule over others, and doth not look upon themſelves, as Equal to others in the Creation: The hand of the Lord ſhall be upon that Laborer: I the Lord have ſpoke it, and I will do it.</hi>
+            </p>
+            <p>This Declares likewiſe to all Laborers, or ſuch as are called Poor people, that they ſhall not dare to work for Hire, for any Landlord, or for any that is lifted up above others; for by their labours, they have lifted up Tyrants and Tyranny; and by de<g ref="char:EOLhyphen"/>nying to labor for Hire, they ſhall pull them down again. He that works for another, either for Wages, or to pay him Rent, works unrighteouſly, and ſtill lifts up the Curſe; but they that are reſolved to work and eat together, making the Earth a Common Treaſury, doth joyn hands with Chriſt, to lift up the Creation from Bondage, and reſtores all things from the Curſe.</p>
+            <p>Fiftly, That which does incourage us to go on in this work, is this; We find the ſtreaming out of Love in our hearts towards all; to enemies as well as friends; we would have none live in Beggery, Poverty, or Sorrow, but that every one might enjoy the benefit of his creation: we have peace in our hearts, and qui<g ref="char:EOLhyphen"/>et rejoycing in our work, and filled with ſweet content, though we have but a diſh of roots and bread for our food.</p>
+            <p>
+               <pb n="19" facs="tcp:165056:10"/>And we are aſſured, that in the ſtrength of this Spirit that hath manifeſted himſelf to us, we ſhall not be ſtartled, neither at Priſon nor Death, while we are about his work; and we have bin made to ſit down and count what it may coſt us in underta<g ref="char:EOLhyphen"/>king ſuch a work, and we know the full ſum, and are reſolved to give all that we have to buy this Pearl which we ſee in the Field.</p>
+            <p>For by this work we are aſſured, and Reaſon makes it appear to others, that Bondage ſhall be removed, Tears wiped away, and all poor People by their righteous Labours ſhall be relieved, and freed from Poverty and Straits; For in this work of Reſto<g ref="char:EOLhyphen"/>ration, there will be no begger in Iſrael: For ſurely, if there was no Begger in literal Iſrael, there ſhall be no Begger in Spiritual Iſrael the Anti-type, much more.</p>
+            <p>Sixtly, We have another encouragement that this work ſhall proſper, Becauſe we ſee it to be the fulneſs of Time: For where<g ref="char:EOLhyphen"/>as the Son of Man, the <hi>Lamb,</hi> came in the Fulneſs of Time, that is, when the Powers of the World made the Earth ſtink every where, by oppreſſing others, under pretenſe of worſhiping the Spirit rightly, by the Types and Sacrifices of <hi>Moſes</hi> law; the Prieſts were grown ſo abominably Covetous and Proud, that they made the People to loath the Sacrifices, and to groan un<g ref="char:EOLhyphen"/>der the Burden of their Oppreſſing Pride.</p>
+            <p>Even ſo now in this Age of the World, that the Spirit is upon his Reſurrection, it is likewiſe the Fulneſs of Time in a higher meaſure. For whereas the People generally in former times did reſt upon the very obſervation of the Sacrifices and Types, but perſecuted the very name of the Spirit; Even ſo now, Profeſ<g ref="char:EOLhyphen"/>ſors do reſt upon the bare obſervation of Forms and Cuſtoms, and pretend to the Spirit, and yet perſecutes, grudges, and hates the power of the Spirit; and as it was then, ſo it is now: All pla<g ref="char:EOLhyphen"/>ces ſtink with the abomination of Self-ſeeking Teachers and Rulers: For do not I ſee that every one Preacheth for money, Counſels for money, and fights for money to maintain particular Intereſts? And none of theſe three that pretend to give liberty to the Creation, do give liberty to the Creation; neither can they, for they are enemies to univerſal liberty; So that the earth ſtinks with their Hypocriſie, Covetouſneſs, Envie, ſottiſh Igno<g ref="char:EOLhyphen"/>rance, and Pride.</p>
+            <p>
+               <pb n="20" facs="tcp:165056:11"/>The common People are filled with good words from Pul<g ref="char:EOLhyphen"/>pits and Councel Tables, but no good Deeds; For they wait and wait for good, and for deliverances, but none comes; While they wait for liberty, behold greater bondage comes inſteed of it, and burdens, oppreſſions, taskmaſters, from Seſſions, Law<g ref="char:EOLhyphen"/>yers, Bayliffs of Hundreds, Committees, Impropriators, Clerks of Peace, and Courts of Juſtice, ſo called, does whip the People by old Popiſh weather-beaten Laws, that were excommunicate long ago by Covenants, Oaths, and Ordinances; but as yet are not caſt out, but rather taken in again, to be ſtanding pricks in our eys, and thorns in our ſide; Beſide Free-quartering, Plun<g ref="char:EOLhyphen"/>dering by ſome rude Souldiers, and the abounding of Taxes; which if they were equally divided among the Souldiery, and not too much bagd up in the hands of particular Officers and Truſtees, there would be leſs complaining: Beſides the horrible cheating that is in Buying and Selling, and the cruel Oppreſſion of Landlords, and lords of Mannours, and quarter Seſſions; Many that have bin good Houſe-keepers (as we ſay) cannot live, but are forced to turn Souldiers, and ſo to fight to uphold the Curſe, or elſe live in great ſtraits and beggery: O you <hi>A-dams</hi> of the Earth, you have rich Clothing, full Bellies, have your Honors and Eaſe, and you puffe at this; But know thou ſtout-hearted <hi>Pharaoh,</hi> that the day of Judgement is begun, and it will reach to thee ere long; <hi>Jacob</hi> hath bin very low, but he is riſing, and will riſe, do the worſt thou canſt; and the poor peo<g ref="char:EOLhyphen"/>ple whom thou oppreſſes, ſhall be the Saviours of the land; For the bleſſing is riſing up in them, and thou ſhalt be aſhamed.</p>
+            <p>And thus you Powers of England, and of the whole World, we have declared our Reaſons, why we have begun to dig upon <hi>George</hi> hill in Surrey. One thing I muſt tell you more, in the cloſe, which I received <hi>in voce</hi> likewiſe at another time; and when I received it, my ey was ſet towards you. The words were theſe: <hi>Let Iſrael go free.</hi>
+            </p>
+            <p>Surely, as Iſrael lay 430. yeers under <hi>Pharaohs</hi> bondage, be<g ref="char:EOLhyphen"/>fore <hi>Moſes</hi> was ſent to fetch them out: Even ſo Iſrael (the E<g ref="char:EOLhyphen"/>lect Spirit ſpread in Sons and Daughters) hath lain three times ſo long already, which is the Anti-type, under your Bondage, and cruel Task-maſters: But now the time of Deliverance is come,
+<pb n="21" facs="tcp:165056:11"/>and thou proud <hi>Eſau,</hi> and ſtout-hearted Covetouſneſs, thou muſt come down, and be lord of the Creation no longer: For <hi>now the King of Righteouſneſs is riſing to Rule In, and Over the Earth.</hi>
+            </p>
+            <p>Therefore, if thou wilt find Mercy, <hi>Let Iſrael go Free;</hi> break in pieces quickly the Band of particular Propriety, diſ-own this oppreſſing Murder, Oppreſſion and Thievery of Buying and Selling of Land, owning of landlords, and paying of Rents, and give thy Free Conſent to make the Earth a Common Treaſury, without grumbling; That the yonger Brethren may live com<g ref="char:EOLhyphen"/>fortably upon Earth, as well as the Elder: That all may enjoy the benefit of their Creation.</p>
+            <p>And hereby thou wilt <hi>Honour thy Father, and thy Mother:</hi> Thy Father, which is the Spirit of Community, that made all, and that dwels in all. Thy Mother, which is the Earth, that brought us all forth: That as a true Mother, loves all her Chil<g ref="char:EOLhyphen"/>dren. Therefore do not thou hinder the Mother Earth, from gi<g ref="char:EOLhyphen"/>ving all her Children ſuck, by thy Incloſing it into particular hands, and holding up that curſed Bondage of Incloſure by thy Power.</p>
+            <p>And then thou wilt repent of thy <hi>Theft,</hi> in maintaining the breach of the eight Commandment, by <hi>Stealing</hi> the Land as I ſay from thy fellow-creatures, or yonger Brothers: which thou and all thy landlords have, and do live in the breach of that Com<g ref="char:EOLhyphen"/>mandment.</p>
+            <p>Then thou wilt <hi>Own no other God,</hi> or Ruling Power, <hi>but One,</hi> which is the King of Righteouſneſs, ruling and dwelling in e<g ref="char:EOLhyphen"/>very one, and in the whole; whereas now thou haſt many gods: For Covetouſneſs is thy God, Pride, and an Envious murdering Humor (to kill one by Priſon or Gallows, that croſſes thee, though their cauſe be pure, ſound, and good reaſon) is thy God, Self-love, and ſlaviſh Fear (leſt other ſerve thee as thou haſt ſer<g ref="char:EOLhyphen"/>ved them) is thy god, Hypocriſie, Fleſhly Imagination, that keeps no Promiſe, Covenant, nor Proteſtation, is thy God: love of Money, Honor, and Eaſe, is thy God: And all theſe, and the like Ruling Powers, makes thee Blind, and hard-hearted, that thou does not, nor cannot lay to heart the affliction of others, though they dy for want of bread, in that rich City, undone under your eys.</p>
+            <p>
+               <pb n="22" facs="tcp:165056:12"/>Therefore once more, <hi>Let Iſrael go Free,</hi> that the poor may labour the Waſte land, and ſuck the Breſts of their mother <hi>Earth,</hi> that they ſtarve not: And in ſo doing, thou wilt keep the <hi>Sab<g ref="char:EOLhyphen"/>bath day,</hi> which is a day of <hi>Reſt;</hi> ſweetly enjoying the Peace of the Spirit of Righteouſneſs; and find Peace, by living among a people that live in peace; this will be a day of <hi>Reſt</hi> which thou never knew yet.</p>
+            <p>But I do not entreat thee, for thou art not to be intreated, but in the <hi>Name of the Lord,</hi> that hath drawn me forth to ſpeak to thee; I, yea I ſay, I Command thee, To <hi>let Iſrael go Free,</hi> and quietly <hi>to gather together into the place where I ſhall appoint; and hold them no longer in bondage.</hi>
+            </p>
+            <p>And thou <hi>A-dam</hi> that holds the Earth in ſlavery under the Curſe: If thou wilt not <hi>let Iſrael go Free;</hi> for thou being the Antitype, will be more ſtout and luſty then the <hi>Egyptian Pha<g ref="char:EOLhyphen"/>roah</hi> of old, who was thy Type; Then know, That whereas I brought <hi>Ten</hi> Plagues upon him, I will <hi>Multiply</hi> my Plagues upon thee, till I make thee weary, and miſerably aſhamed: And <hi>I will bring out my People with a ſtrong hand, and ſtretched out arme.</hi>
+            </p>
+            <p>Thus we have diſcharged our Souls in declaring the Cauſe of our Digging upon <hi>George-Hill</hi> in <hi>Surrey,</hi> that the Great Coun<g ref="char:EOLhyphen"/>cel and Army of the Land may take notice of it, That there is no intent of Tumult<g ref="char:punc">▪</g> or Fighting, but only to get Bread to eat, with the ſweat of our brows; working together in righteouſ<g ref="char:EOLhyphen"/>neſs, and eating the bleſſings of the Earth in peace.</p>
+            <p>And if any of you that are the great Ones of the Earth, that have been bred tenderly, and cannot work, do bring in your Stock into this Common Treaſury, as an Offering to the work of Righteouſneſs; we will work for you, and you ſhall receive as we receive. But if you will not, but <hi>Pharoah</hi> like, cry, <hi>Who is the Lord that we ſhould obey him?</hi> and endeavour to Oppoſe, then know, That he that delivered Iſrael from <hi>Pharoah</hi> of old, is the ſame Power ſtill, in whom we truſt, and whom we ſerve; for this Conqueſt over thee ſhall be got, <hi>not by Sword or Weapon, but by my Spirit ſaith the Lord of Hoſts.</hi>
+            </p>
+            <pb facs="tcp:165056:12"/>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>William Everard,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Palmer,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn South,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Courton.</hi>
+                     </item>
+                     <item>
+                        <hi>William Taylor,</hi>
+                     </item>
+                     <item>
+                        <hi>Chriſtopher Clifford,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Barker.</hi>
+                     </item>
+                     <item>
+                        <hi>Ferrard Winſtanley,</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Goodgroome,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Starre,</hi>
+                     </item>
+                     <item>
+                        <hi>William Hoggrill,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Sawyer,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Eder,</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Bickerſtaffe,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Taylor,</hi> &amp;c.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
